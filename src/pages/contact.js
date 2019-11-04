@@ -4,7 +4,7 @@ const ContactPage = () => {
     return(
         <div>
             <h1>Contact</h1>
-            <p>Details show here.</p>
+            <p>Conheça meu GitHub <a href="http://github.com/zzeris" target="_blank">clicando aqui.</a></p>
         </div>
     )
 }
